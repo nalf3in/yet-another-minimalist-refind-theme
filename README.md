@@ -1,5 +1,7 @@
 # yet-another-minimalist-refind-theme
-My theme for rEFInd 
+My theme for rEFInd
+
+![theme_screenshoot](screenshot.png)
 
 ## To install
 
