@@ -5,13 +5,13 @@ My theme for rEFInd
 
 ## To install
 
-Add this line to refind.conf
+- Git clone this repository in [EFI_PARTITION]/EFI/refind/themes
+
+- Add this line to [EFI_PARTITION]/EFI/refind/refind.conf
 
 ```
 include themes/yet-another-minimalist-refind-theme/theme.conf
 ```
-
-Usually in [efi_partition]/EFI/refind/refind.conf
 
 Example file tree:
 ```
