@@ -1,2 +1,2 @@
-# yet-another-minimalist-refind-theme-
+# yet-another-minimalist-refind-theme
 My theme for rEFInd 
